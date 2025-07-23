@@ -4,7 +4,7 @@ This device exists to make it easy to have two modulation targets deviate opposi
 
 You might want to use it to stack up instruments or filters in a rack and run them in parallel, controlling different aspects of timbre of each device/instrument in opposite ways.
 
-![How it Looks](images/device.png)
+![How it Looks](images/device.gif)
 
 ## Installation
 
