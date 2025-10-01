@@ -8,11 +8,12 @@ You might want to use it to stack up instruments or filters in a rack and run th
 
 ## Installation
 
-[Download the newest release](https://github.com/zsteinkamp/m4l-SimulScrub/releases) or clone this repository, and drag the `SimulScrub.amxd` device into a track in Ableton Live.
+[Download the newest release](https://github.com/zsteinkamp/m4l-Modulation-Deviation/releases) or clone this repository, and drag the `SimulScrub.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
-- 2025-07-22 [v1](https://github.com/zsteinkamp/m4l-SimulScrub/releases/download/v1/SimulScrub-v1.amxd) - Initial Release.
+- 2025-10-01 [v2](https://github.com/zsteinkamp/m4l-Modulation-Deviation/releases/download/v1/ModulationDeviation-v2.amxd) - Fix Mod / Bipolar modulation bug.
+- 2025-07-22 [v1](https://github.com/zsteinkamp/m4l-Modulation-Deviation/releases/download/v1/ModulationDeviation-v1.amxd) - Initial Release.
 
 ## Usage
 
